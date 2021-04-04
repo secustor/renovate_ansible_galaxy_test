@@ -9,4 +9,4 @@ collections:
   - name: geerlingguy.php_roles
     version: 0.9.3
   - name: davidban77.gns3
-    version: 1.2.2
+    version: 1.5.0
