@@ -14,6 +14,6 @@ tags:
   - backup
 dependencies:
   ansible.windows: '1.3.0'
-  community.windows: '1.2.0'
+  community.windows: '1.3.0'
 repository: "https://github.com/foo/bar"
 issues: "https://github.com/foo/bar/issues"
