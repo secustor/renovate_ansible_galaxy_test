@@ -7,6 +7,6 @@ roles:
 collections:
   # Install a collection from Ansible Galaxy.
   - name: geerlingguy.php_roles
-    version: 0.9.3
+    version: 0.9.6
   - name: davidban77.gns3
     version: 1.2.2
